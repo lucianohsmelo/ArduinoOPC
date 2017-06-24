@@ -1,0 +1,1 @@
+"C:\Users\Luciano\Downloads\Kassl-dOPC-Explorer-Trial\Arduino OPC Server\ArduinoOPCServer.exe" /unregserver

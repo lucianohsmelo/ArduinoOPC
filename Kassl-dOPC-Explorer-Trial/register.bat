@@ -1,0 +1,1 @@
+"D:\Arduino Docs\Kassl-dOPC-Explorer-Trial\ArduinoOPCServer.exe" /regserver
